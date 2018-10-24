@@ -1,6 +1,31 @@
 # tf_cotf_signalling_list
 The list of TFs, coTFs, signalling, surfaceMarkers, etc for ARACNe
+UPDATES:
 
+October 24, 2018
+Ajay removed the following genes from TF and coTF 'symbol' lists for mouse symbols because they are ribosomal genes and not know to have any transcriptional regulatory function. 
+TFs:
+Rpl7
+Mrpl28
+
+coTFs:
+Rpl6
+Rpl7l1
+Rps14
+Rps3
+Rps6ka4
+Rps6ka5
+Mrpl12
+
+Changed Files:
+The corresponding mouse TF and coTF gene-symbol-files have been changed. 
+
+Not changed:
+The mouse TF and coTF gene-EntrezID-files have not been updated.
+The human files have not been changed.
+
+******************************
+October 19, 2018
 These lists were initially created by Ding for scRNAseq:
 https://github.com/califano-lab/single-cell-pipeline/tree/master/Modules/ARACNe
 
