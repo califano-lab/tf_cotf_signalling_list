@@ -1,5 +1,3 @@
-2210018M11Rik
-2410016O06Rik
 Abcg1
 Abcg4
 Abl1
@@ -95,6 +93,8 @@ Card11
 Cask
 Casp8ap2
 Cat
+Cavin1
+Cavin4
 Cbx3
 Cbx4
 Cbx5
@@ -103,7 +103,6 @@ Cbx7
 Cbx8
 Cby1
 Ccar1
-Ccdc101
 Ccdc59
 Ccdc85b
 Ccna2
@@ -153,6 +152,7 @@ Cnot1
 Cnot3
 Cnot4
 Cnot6
+Cnot9
 Commd7
 Coprs
 Cops5
@@ -214,11 +214,13 @@ Elavl2
 Ell
 Ell2
 Ell3
+Eloc
 Elof1
 Elp2
 Elp3
 Elp4
 Elp5
+Emsy
 Eng
 Eny2
 Epc1
@@ -376,6 +378,9 @@ Khdrbs3
 Klhl31
 Kmt2c
 Kmt2d
+Kmt5a
+Kmt5b
+Kmt5c
 Kras
 L3mbtl2
 L3mbtl3
@@ -448,7 +453,6 @@ Mstn
 Mtdh
 Mterf1a
 Mterf2
-Murc
 Mxi1
 Mybbp1a
 Mycbp
@@ -472,7 +476,6 @@ Ncoa6
 Ncoa7
 Ncor2
 Ndn
-Ndnl2
 Ndufa13
 Nedd4
 Nedd8
@@ -500,6 +503,8 @@ Nrg1
 Nrip1
 Nrip2
 Nsd1
+Nsd3
+Nsmce3
 Ntf3
 Nufip1
 Nup62
@@ -584,7 +589,6 @@ Ptges2
 Pth
 Ptov1
 Ptpru
-Ptrf
 Puf60
 Pycard
 Rab18
@@ -611,6 +615,7 @@ Rhoa
 Rhoh
 Rhoq
 Ring1
+Riox1
 Ripk1
 Ripk2
 Ripk3
@@ -620,7 +625,6 @@ Rnf10
 Rnf14
 Rnf2
 Rnf20
-Rqcd1
 Rsf1
 Rtf1
 Ruvbl1
@@ -646,13 +650,13 @@ Setd1a
 Setd1b
 Setd2
 Setd7
-Setd8
 Setdb1
 Sf1
 Sfmbt1
 Sfmbt2
 Sfpq
 Sfswap
+Sgf29
 Shh
 Siah2
 Sigirr
@@ -717,8 +721,6 @@ Supt5
 Supt7l
 Suv39h1
 Suv39h2
-Suv420h1
-Suv420h2
 Suz12
 Tada1
 Taf1
@@ -733,7 +735,6 @@ Tcea3
 Tceal3
 Tceal5
 Tceal8
-Tceb1
 Tcerg1
 Tdgf1
 Tdp2
@@ -818,7 +819,6 @@ Vps36
 Wasl
 Wdr77
 Wdtc1
-Whsc1l1
 Wnt1
 Wwp1
 Wwtr1
