@@ -305,7 +305,6 @@ Glis2
 Glis3
 Glmp
 Gm13212
-Gm22
 Gm5566
 Gm6776
 Gmeb1
@@ -671,6 +670,7 @@ Nr6a1
 Nrf1
 Nrk
 Nrl
+Nsd2
 Olig1
 Olig2
 Olig3
@@ -803,6 +803,8 @@ Rorb
 Rorc
 Rreb1
 Rrn3
+Rtl3
+Rtl4
 Runx1t1
 Runx2
 Runx3
@@ -910,7 +912,7 @@ Taf13
 Taf1b
 Taf1d
 Taf2
-Taf4a
+Taf4
 Taf4b
 Taf5
 Taf5l
@@ -1024,7 +1026,6 @@ Vezf1
 Vps72
 Vsx1
 Vsx2
-Whsc1
 Wiz
 Wnt5a
 Wt1
@@ -1099,13 +1100,11 @@ Zcchc11
 Zcchc12
 Zcchc13
 Zcchc14
-Zcchc16
 Zcchc17
 Zcchc2
 Zcchc24
 Zcchc3
 Zcchc4
-Zcchc5
 Zcchc6
 Zcchc8
 Zcchc9
@@ -1171,7 +1170,6 @@ Zfp180
 Zfp182
 Zfp184
 Zfp189
-Zfp191
 Zfp2
 Zfp202
 Zfp207
@@ -1182,6 +1180,7 @@ Zfp219
 Zfp235
 Zfp236
 Zfp239
+Zfp24
 Zfp248
 Zfp251
 Zfp26
@@ -1257,6 +1256,7 @@ Zfp458
 Zfp46
 Zfp462
 Zfp467
+Zfp469
 Zfp473
 Zfp474
 Zfp488
@@ -1265,6 +1265,7 @@ Zfp507
 Zfp51
 Zfp511
 Zfp512
+Zfp512b
 Zfp513
 Zfp516
 Zfp518a
@@ -1429,7 +1430,6 @@ Zmynd12
 Zmynd15
 Zmynd19
 Zmynd8
-Znf512b
 Znfx1
 Znhit1
 Znhit2
