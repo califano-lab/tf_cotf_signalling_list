@@ -2,8 +2,11 @@
 The list of TFs, coTFs, signalling, surfaceMarkers, etc for ARACNe
 UPDATES:
 
+******************************
 October 24, 2018
+
 Ajay removed the following genes from TF and coTF 'symbol' lists for mouse symbols because they are ribosomal genes and not know to have any transcriptional regulatory function. 
+
 TFs:
 Rpl7
 Mrpl28
@@ -26,6 +29,7 @@ The human files have not been changed.
 
 ******************************
 October 19, 2018
+
 These lists were initially created by Ding for scRNAseq:
 https://github.com/califano-lab/single-cell-pipeline/tree/master/Modules/ARACNe
 
@@ -39,4 +43,4 @@ Transcriptional Co-Factors (manually curated, not overlapping with Transcription
 GO:0003712, GO:0030528 or GO:0045449, ìtranscription cofactor activityî
 
 Surface Proteins (manually curated, not overlapping with Transcriptional Factors/Co-Factors list):
-GO:0005886, ìplasma membraneî
+GO:0005886, plasma membrane
