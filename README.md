@@ -7,11 +7,11 @@ October 24, 2018
 
 Ajay removed the following genes from TF and coTF 'symbol' lists for mouse symbols because they are ribosomal genes and not know to have any transcriptional regulatory function. 
 
-TFs:
+Removed TFs:
 Rpl7
 Mrpl28
 
-coTFs:
+Removed coTFs:
 Rpl6
 Rpl7l1
 Rps14
@@ -19,6 +19,8 @@ Rps3
 Rps6ka4
 Rps6ka5
 Mrpl12
+
+Added coTFs: Yap1
 
 Changed Files:
 The corresponding mouse TF and coTF gene-symbol-files have been changed. 
