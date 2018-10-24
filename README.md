@@ -9,27 +9,22 @@ October 24, 2018
 Heeju updated old gene symbols for mouse:
 
 [tf_mus_symbol.txt]
-Gm22 -> Zfp469
-Taf4a -> Taf4
-Whsc1 -> Nsd2
-Zcchc16 -> Rtl4
-Zcchc5 -> Rtl3
-Zfp191 -> Zfp24
-Znf512b -> Zfp512b
+
+Gm22, Taf4a, Whsc1, Zcchc16, Zcchc5, Zfp191, Znf512b
+
+to 
+
+Zfp469, Taf4, Nsd2, Rtl4, Rtl3, Zfp24, Zfp512b
+
 
 [cotf_mus_symbol.txt]
-2210018M11Rik -> Emsy
-2410016O06Rik -> Riox1
-Ccdc101 -> Sgf29
-Murc -> Cavin4
-Ndnl2 -> Nsmce3
-Ptrf -> Cavin1
-Rqcd1 -> Cnot9
-Setd8 -> Kmt5a
-Suv420h1 -> Kmt5b
-Suv420h2 -> Kmt5c
-Tceb1 -> Eloc
-Whsc1l1 -> Nsd3
+
+2210018M11Rik, 2410016O06Rik, Ccdc101, Murc, Ndnl2, Ptrf, Rqcd1, Setd8, Suv420h1, Suv420h2, Tceb1, Whsc1l1 
+
+to
+
+Emsy, Riox1, Sgf29, Cavin4, Nsmce3, Cavin1, Cnot9, Kmt5a, Kmt5b, Kmt5c, Eloc, Nsd3
+
 
 The lists of Entrez IDs for mouse were updated based on Entrez Gene as of 2018-Apr-4.
 
