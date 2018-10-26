@@ -19,7 +19,14 @@ Gm22, Taf4a, Whsc1, Zcchc16, Zcchc5, Zfp191, Znf512b   to   Zfp469, Taf4, Nsd2, 
 
 
 The lists of Entrez IDs for mouse were updated based on Entrez Gene as of 2018-Apr-4.
+[tf_mus_Entrez.txt]
+TFs removed.
+19989: Rpl7
+68611: Mrpl28
 
+Not changed:
+Mouse coTF gene-EntrezID-files not updated.
+Human files not changed.
 ******************************
 October 24, 2018
 
