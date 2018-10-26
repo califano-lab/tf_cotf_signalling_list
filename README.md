@@ -2,6 +2,11 @@
 The list of TFs, coTFs, signalling, surfaceMarkers, etc for ARACNe
 UPDATES:
 
+******************************
+October 26, 2018
+
+old_lists folder has been created that contains the lists from lab members and shared folders.
+
 
 ******************************
 October 24, 2018
