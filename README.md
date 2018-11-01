@@ -3,6 +3,20 @@ The list of TFs, coTFs, signalling, surfaceMarkers, etc for ARACNe
 UPDATES:
 
 ******************************
+November 01, 2018
+
+Added TF: Brd4
+
+Added coTF: Nf1
+
+Files changed: 
+mouse TF and coTF gene-symbol-files
+
+Files not updated: 
+mouse TF and coTF gene-EntrezID-files and human files
+
+
+******************************
 October 26, 2018
 
 old_lists folder has been created that contains the lists from lab members and shared folders.

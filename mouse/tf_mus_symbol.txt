@@ -72,6 +72,7 @@ Blzf1
 Bmpr1a
 Bnc1
 Bnc2
+Brd4
 Brd8
 Brpf1
 Bsx
