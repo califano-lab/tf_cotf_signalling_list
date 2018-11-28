@@ -3,6 +3,11 @@ The list of TFs, coTFs, signalling, surfaceMarkers, etc for ARACNe
 UPDATES:
 
 ******************************
+November 28, 2018
+
+ZIC4 and FIGLA regulators are not present in our human or mouse tf list. These may have to be added.
+
+******************************
 November 01, 2018
 
 Added TF: Brd4
